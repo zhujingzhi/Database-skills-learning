@@ -435,4 +435,4 @@ select nid,name,gender as gg from 表 where id > 1;
     select name
     from B
 ```
-[具体连表实例](http://www.cnblogs.com/brianzhu/)
+[个人博客](http://www.cnblogs.com/brianzhu/)
